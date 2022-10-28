@@ -1,1 +1,24 @@
+import numpy as np
+import pandas as pd
 
+from matplotlib import pyplot
+import seaborn as sns
+
+import numpy as np
+import pandas as pd
+
+# Data visualization
+import matplotlib.pyplot as plt
+from matplotlib import cm # Colomaps
+import seaborn as sns
+
+# Classifier algorithms
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+
+#train test split
+from sklearn.model_selection import train_test_split
+
+# Model evaluation
+from sklearn import metrics
